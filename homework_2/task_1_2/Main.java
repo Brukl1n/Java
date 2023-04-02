@@ -40,7 +40,7 @@ public class Main {
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < text.length; i++) {
                 sb.append(text[i] + " ");
-                sb.append(studentString[i*2 + 1] + " ");
+                sb.append(studentString[i * 2 + 1] + " ");
             }
             System.out.println(sb.toString());
             writeFile(sb.toString());
