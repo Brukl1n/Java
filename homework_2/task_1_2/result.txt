@@ -1,0 +1,3 @@
+Студент Ivanov получил 5 по предмету Math 
+Студент Petrova получил 4 по предмету Computer Science 
+Студент Krasnov получил 5 по предмету Physics 
