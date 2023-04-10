@@ -7,6 +7,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 
 public class Main {
+    
     public static void main(String[] args) {
         LinkedList<Integer> linList = new LinkedList<>(Arrays.asList(1, 2, 3, 4, 5));
         System.out.println(reversArray(linList));
